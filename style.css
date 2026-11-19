@@ -564,3 +564,4 @@ footer .ci a:hover{color:var(--amber)}
 }
 
 @media (min-width:1061px){.hero h1 .line{white-space:nowrap}}
+#clients{scroll-margin-top:80px}
